@@ -1,0 +1,3 @@
+cov2021 xxxxns8971i00001-roi-1.img reconSignal.img 100 103
+
+corr2021 xxxxns8971i00001-roi-1.img reconSignal.img 100 103 2

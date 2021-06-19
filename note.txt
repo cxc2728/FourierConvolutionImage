@@ -1,0 +1,2 @@
+Please call the programs from the command prompt (Windows OS).
+The programs provide instructions on their usage. Thank you.

@@ -1,0 +1,2 @@
+Data is 64 bits Real. Please used MRICRO to open the MRA files.
+Please use ImageJ to visualize the images. Thank you.
